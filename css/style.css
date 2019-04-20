@@ -183,7 +183,7 @@ a {
   width: 100%;
   left: 0; }
   .site-navbar-wrap a {
-    color: #f23a2e; }
+    color: #ffffff; }
   .site-navbar-wrap .site-navbar-top {
     font-size: 0.8rem; }
 
@@ -198,7 +198,7 @@ a {
     font-weight: 200; }
     .site-navbar .site-logo a {
       font-weight: 200;
-      color: #f23a2e; }
+      color: #cc0000; }
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }
     .site-navbar .site-navigation .site-menu .active > a {
@@ -471,11 +471,11 @@ a {
   .site-blocks-cover .sub-text {
     font-size: 1.1rem;
     text-transform: uppercase;
-    color: #f23a2e;
+    color: #ffffff;
     letter-spacing: .2em; }
   .site-blocks-cover h1 {
     font-weight: 900;
-    color: #f23a2e;
+    color: rgba(204,0,0,0.79);
     text-transform: uppercase;
     font-size: 3rem; }
     .site-blocks-cover h1 strong {
