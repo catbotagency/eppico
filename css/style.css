@@ -1,7 +1,7 @@
 /* Base */
 body {
   line-height: 1.7;
-  color: #4d4d4d;
+  color: #f6f5f5;
   font-weight: 300;
   font-size: 1.1rem;
   font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
@@ -22,7 +22,7 @@ a {
     text-decoration: none; }
 
 .text-black {
-  color: #000 !important; }
+  color: #333333 !important; }
 
 .bg-black {
   background: #000 !important; }
@@ -202,7 +202,7 @@ a {
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }
     .site-navbar .site-navigation .site-menu .active > a {
-      color: #f23a2e; }
+      color: #cc0000; }
     .site-navbar .site-navigation .site-menu a {
       text-decoration: none !important;
       font-size: 15px;
@@ -214,7 +214,7 @@ a {
         padding: 10px 10px;
         text-transform: uppercase;
         letter-spacing: .05em;
-        color: rgba(255, 255, 255, 0.6);
+        color: #333333;
         font-size: 15px;
         text-decoration: none !important; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
@@ -515,7 +515,7 @@ a {
       transform: translateY(-100%); } }
 
 .site-block-appointment, .bg-light {
-  background: #ece8d9 !important; }
+  background: #e8e8e7 !important; }
   .site-block-appointment form, .bg-light form {
     -webkit-box-shadow: 0 5px 20px -2px rgba(0, 0, 0, 0.1);
     box-shadow: 0 5px 20px -2px rgba(0, 0, 0, 0.1); }
@@ -563,7 +563,7 @@ a {
   transition: .3s all ease-in-out;
   height: 100%; }
   .site-block-3 .feature h3 {
-    color: #000;
+    color: #333333;
     font-size: 1.4rem; }
   .site-block-3 .feature:hover, .site-block-3 .feature:active, .site-block-3 .feature:focus, .site-block-3 .feature.active {
     -webkit-box-shadow: 0 5px 20px -2px rgba(0, 0, 0, 0.1);
