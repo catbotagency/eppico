@@ -1,0 +1,85 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+      display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    display: block;
+}
+
+.flaticon-001-tooth:before { content: "\f100"; }
+.flaticon-002-tooth:before { content: "\f101"; }
+.flaticon-003-medical-history:before { content: "\f102"; }
+.flaticon-004-first-aid-kit:before { content: "\f103"; }
+.flaticon-005-syringe:before { content: "\f104"; }
+.flaticon-006-mirror:before { content: "\f105"; }
+.flaticon-007-dentist:before { content: "\f106"; }
+.flaticon-008-toothpaste:before { content: "\f107"; }
+.flaticon-009-toothpaste:before { content: "\f108"; }
+.flaticon-010-braces:before { content: "\f109"; }
+.flaticon-011-decay:before { content: "\f10a"; }
+.flaticon-012-medicine:before { content: "\f10b"; }
+.flaticon-013-apple:before { content: "\f10c"; }
+.flaticon-014-broken-tooth:before { content: "\f10d"; }
+.flaticon-015-toothpaste:before { content: "\f10e"; }
+.flaticon-016-toothbrush:before { content: "\f10f"; }
+.flaticon-017-pills:before { content: "\f110"; }
+.flaticon-018-mouthwash:before { content: "\f111"; }
+.flaticon-019-excavator:before { content: "\f112"; }
+.flaticon-020-floss:before { content: "\f113"; }
+.flaticon-021-dirty-tooth:before { content: "\f114"; }
+.flaticon-022-teeth:before { content: "\f115"; }
+.flaticon-023-floss:before { content: "\f116"; }
+.flaticon-024-drill:before { content: "\f117"; }
+.flaticon-025-mouthwash:before { content: "\f118"; }
+.flaticon-026-dental:before { content: "\f119"; }
+.flaticon-027-electric-toothbrush:before { content: "\f11a"; }
+.flaticon-028-floss:before { content: "\f11b"; }
+.flaticon-029-drill:before { content: "\f11c"; }
+.flaticon-030-dirty:before { content: "\f11d"; }
+.flaticon-031-medicine:before { content: "\f11e"; }
+.flaticon-032-dentist-tools:before { content: "\f11f"; }
+.flaticon-033-syringe:before { content: "\f120"; }
+.flaticon-034-pills:before { content: "\f121"; }
+.flaticon-035-dental:before { content: "\f122"; }
+.flaticon-036-medical-history:before { content: "\f123"; }
+.flaticon-037-dentist:before { content: "\f124"; }
+.flaticon-038-medical-history:before { content: "\f125"; }
+.flaticon-039-tongue:before { content: "\f126"; }
+.flaticon-040-dentist:before { content: "\f127"; }
+.flaticon-041-scissors:before { content: "\f128"; }
+.flaticon-042-apple:before { content: "\f129"; }
+.flaticon-043-scalpel:before { content: "\f12a"; }
+.flaticon-044-radiography:before { content: "\f12b"; }
+.flaticon-045-dentist:before { content: "\f12c"; }
+.flaticon-046-tooth:before { content: "\f12d"; }
+.flaticon-047-tooth:before { content: "\f12e"; }
+.flaticon-048-toothpaste:before { content: "\f12f"; }
+.flaticon-049-mouthwash:before { content: "\f130"; }
+.flaticon-050-dentist:before { content: "\f131"; }
