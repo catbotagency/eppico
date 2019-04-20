@@ -183,7 +183,7 @@ a {
   width: 100%;
   left: 0; }
   .site-navbar-wrap a {
-    color: #ffffff; }
+    color: #333333; }
   .site-navbar-wrap .site-navbar-top {
     font-size: 0.8rem; }
 
@@ -471,11 +471,11 @@ a {
   .site-blocks-cover .sub-text {
     font-size: 1.1rem;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #333333;
     letter-spacing: .2em; }
   .site-blocks-cover h1 {
     font-weight: 900;
-    color: rgba(204,0,0,0.79);
+    color: rgba(204,0,0,0.70);
     text-transform: uppercase;
     font-size: 3rem; }
     .site-blocks-cover h1 strong {
