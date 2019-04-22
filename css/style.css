@@ -66,8 +66,8 @@ a {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-secondary {
-    background-color: #e6e7e9;
-    border-color: #e6e7e9;
+    background-color: #333333;
+    border-color: #333333;
     color: #000; }
   .btn.btn-sm {
     font-size: 0.9rem; }
@@ -85,7 +85,7 @@ a {
 .form-control {
   height: 47px; }
   .form-control:active, .form-control:focus {
-    border-color: #f23a2e; }
+    border-color: #333333; }
   .form-control:hover, .form-control:active, .form-control:focus {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
