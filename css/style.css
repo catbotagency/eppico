@@ -129,7 +129,7 @@ a {
   padding: 4em 0;
   background: #333333; }
   .site-footer p {
-    color: #737373; }
+    color: #ffffff; }
   .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
     color: #fff; }
   .site-footer a {
@@ -140,7 +140,7 @@ a {
     margin-bottom: 10px; }
   .site-footer .footer-heading {
     font-size: 20px;
-    color: #fff; }
+    color: #e21205; }
 
 .bg-text-line {
   display: inline;
@@ -183,7 +183,7 @@ a {
   width: 100%;
   left: 0; }
   .site-navbar-wrap a {
-    color: #333333; }
+    color: #ffffff; }
   .site-navbar-wrap .site-navbar-top {
     font-size: 0.8rem; }
 
@@ -198,7 +198,7 @@ a {
     font-weight: 200; }
     .site-navbar .site-logo a {
       font-weight: 200;
-      color: #cc0000; }
+      color: #e21205; }
   .site-navbar .site-navigation .site-menu {
     margin-bottom: 0; }
     .site-navbar .site-navigation .site-menu .active > a {
@@ -214,11 +214,11 @@ a {
         padding: 10px 10px;
         text-transform: uppercase;
         letter-spacing: .05em;
-        color: #333333;
+        color: #ffffff;
         font-size: 15px;
         text-decoration: none !important; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
-          color: #fff; }
+          color: #e21205; }
       .site-navbar .site-navigation .site-menu > li:last-child {
         padding-right: 0; }
         .site-navbar .site-navigation .site-menu > li:last-child > a {
@@ -471,11 +471,11 @@ a {
   .site-blocks-cover .sub-text {
     font-size: 1.1rem;
     text-transform: uppercase;
-    color: #333333;
+    color: #ffffff;
     letter-spacing: .2em; }
   .site-blocks-cover h1 {
     font-weight: 900;
-    color: rgba(204,0,0,0.70);
+    color: #e21205;
     text-transform: uppercase;
     font-size: 3rem; }
     .site-blocks-cover h1 strong {
@@ -784,7 +784,7 @@ a {
   margin: 0; }
 
 .block-25 ul li .date {
-  color: rgba(255, 255, 255, 0.25);
+  color: #e8e8e7;
   font-size: 0.8rem;
   display: block; }
 
@@ -808,7 +808,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #999999; }
+  color: #ffffff; }
 
 .block-25 ul li a .meta {
   color: #f23a2e; }
