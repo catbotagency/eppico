@@ -480,10 +480,10 @@ a {
     font-size: 3rem; }
     .site-blocks-cover h1 strong {
       font-weight: 700; }
-    @media (min-width: 668px) {
+    @media (min-width: 768px) {
       .site-blocks-cover h1 {
         font-size: 5rem;
-        font-weight: 300;
+        font-weight: 200;
         line-height: 1.2; } }
   .site-blocks-cover p {
     color: #e8e8e7;
