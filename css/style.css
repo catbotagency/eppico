@@ -483,7 +483,7 @@ a {
     @media (min-width: 768px) {
       .site-blocks-cover h1 {
         font-size: 5rem;
-        font-weight: 50;
+        font-weight: 200;
         line-height: 1.2; } }
   .site-blocks-cover p {
     color: #e8e8e7;
