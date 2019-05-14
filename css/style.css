@@ -477,12 +477,12 @@ a {
     font-weight: 700;
     color: #B91817;
     text-transform: uppercase;
-    font-size: 2rem; }
+    font-size: 1.5rem; }
     .site-blocks-cover h1 strong {
       font-weight: 700; }
     @media (min-width: 768px) {
       .site-blocks-cover h1 {
-        font-size: 4rem;
+        font-size: 5rem;
         font-weight: 200;
         line-height: 1.2; } }
   .site-blocks-cover p {
